@@ -50,7 +50,7 @@ const features = ()=> {
     <div class="max-w-md">
       <h1 class="text-5xl font-bold">Open Source</h1>
       <p class="py-6">Our launcher is completely open source, <br/> which means you can change anything you like to your own personal needs! </p>
-      <a href="https://github.com/thijnmens/Almond-launcher"><button class="btn btn-primary hover:scale-110">Github</button></a>
+      <a href="https://github.com/thijnmens/Almond-launcher" target="_blank"><button class="btn btn-primary hover:scale-110">Github</button></a>
     </div>
   </div>
 </div>                                              

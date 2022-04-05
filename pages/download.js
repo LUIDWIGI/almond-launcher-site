@@ -19,7 +19,7 @@ const home = ()=> {
     <div>
       <h1 class="text-5xl font-bold">Almond Launcher</h1>
       <p class="py-6">An universal solution for all your games!</p>
-      <a href="https://github.com/thijnmens/Almond-launcher/releases/download/0.1.0/almond_launcher.Setup.0.1.0.exe"><button class="btn btn-primary my-2 hover:scale-110">Download</button></a>
+      <a href="https://github.com/thijnmens/Almond-launcher/releases/download/0.2.0/almond_launcher.Setup.0.2.0.exe"><button class="btn btn-primary my-2 hover:scale-110">Download</button></a>
       <a href="https://github.com/thijnmens/Almond-launcher/releases" target="_blank"><button class="btn btn-primary hover:scale-110">Instructions</button></a>
     </div>
   </div>
